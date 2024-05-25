@@ -11,7 +11,7 @@ For more information on Levenshtein distance, refer [wiki](https://en.wikipedia.
 
 The minimum edit distance or the Levenshtein distance between two strings is the minimum number of editing operations (insertion, deletion, substitution) needed to transform one string into another.
 
-The program `wagner_fischer.py` and `main.rs` is the implementation of Wagner-Fischer algorithm. The cost of edit operations can be changed with default cost as: insertion - 1, deletion - 1, substitution - 2.
+The program `wagner_fischer.py` and `main.rs` are the implementations of Wagner-Fischer algorithm. The cost of edit operations can be changed with default cost as: insertion - 1, deletion - 1, substitution - 2.
 
 Implemented Wagner-Fischer Algorithm using Rust as well as Python3.
 
@@ -34,4 +34,4 @@ Implemented Wagner-Fischer Algorithm using Rust as well as Python3.
 
 Matrix for Distance Calculation :
 
-![Matrix for Dist Calculation](images/example_matrix.png) 
+![Matrix for Dist Calculation](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*GdRk8Pxof9cci2nKbosGUA.jpeg) 
