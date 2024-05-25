@@ -33,7 +33,7 @@ def spell_check(word, dictionary):
 
 # Check Check
 dictionary = load_dictionary("dict.txt")
-misspelled_word = "wrlod"
+misspelled_word = "housde"
 suggestions = spell_check(misspelled_word, dictionary)
 print(f"Top 10 suggestions for '{misspelled_word}':")
 for word, distance in suggestions:
