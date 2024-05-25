@@ -34,4 +34,4 @@ Implemented Wagner-Fischer Algorithm using Rust as well as Python3.
 
 Matrix for Distance Calculation :
 
-![Matrix for Dist Calculation](images/example_matrix.png) 
+![Matrix for Dist Calculation](https://www.codeproject.com/KB/Articles/5342019/MatrixDistM.jpg) 
